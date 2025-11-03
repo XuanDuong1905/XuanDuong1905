@@ -1,7 +1,7 @@
 <!-- 🌌 HACKER-STYLE README for xuanduong -->
 
 <p align="center">
-  <img src="https://i.imgur.com/Wx7dVRh.png" width="120" />
+  <img src="" width="120" />
 </p>
 
 <h1 align="center">🌌 Welcome to my Space 💻</h1>
@@ -17,15 +17,13 @@
 👨‍💻 **Name:** Xuan Duong  
 🎓 **University:** [University of Science - VNUHCM](https://www.hcmus.edu.vn)  
 💻 **Major:** Information Technology  
-🌌 **Interests:** Algorithms • System Programming • Cyber Aesthetics  
-⚙️ **Motto:** *"Type. Debug. Evolve."*
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,linux,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
 ---
@@ -56,5 +54,5 @@
 </p>
 
 <p align="center">
-  <i>“In the silence of the terminal, I find my rhythm.”</i>
+  <i>“Fall in love with HCMUS.”</i>
 </p>
