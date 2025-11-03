@@ -1,7 +1,7 @@
 <!-- 🌌 HACKER-STYLE README for xuanduong -->
 
 <p align="center">
-  <img src="" width="120" />
+  <img src="https://github.com/XuanDuong1905/XuanDuong1905/blob/main/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif?raw=true" width="120" />
 </p>
 
 <h1 align="center">🌌 Welcome to my Space 💻</h1>
@@ -50,7 +50,7 @@
 ## 🌠 Fun Zone  
 
 <p align="center">
-  <img src="https://i.imgur.com/NZbjZVU.jpeg" width="500"/>
+  <img src="https://github.com/XuanDuong1905/XuanDuong1905/blob/main/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif?raw=true" width="500"/>
 </p>
 
 <p align="center">
