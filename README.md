@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- 🌌 HACKER-STYLE README for xuanduong -->
 
-<!--
-**XuanDuong1905/XuanDuong1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/Wx7dVRh.png" width="120" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">🌌 Welcome to my Space 💻</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=25&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Xuan+Duong;Coding+in+the+Dark;Exploring+the+Universe+of+Code;Welcome+to+My+GitHub!">
+</p>
+
+---
+
+## 🧠 About Me  
+
+👨‍💻 **Name:** Xuan Duong  
+🎓 **University:** [University of Science - VNUHCM](https://www.hcmus.edu.vn)  
+💻 **Major:** Information Technology  
+🌌 **Interests:** Algorithms • System Programming • Cyber Aesthetics  
+⚙️ **Motto:** *"Type. Debug. Evolve."*
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,linux,vscode,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xuanduong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=00FFFF&title_color=00FFFF&text_color=9be9ff" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanduong&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=9be9ff" width="49%"/>
+</p>
+
+---
+
+## 🛰️ Contact Me  
+
+<p align="center">
+  <a href="https://facebook.com/xuanduong"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/toiladuo_ng"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="https://discordapp.com/users/iamduo_ng"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"></a>
+</p>
+
+---
+
+## 🌠 Fun Zone  
+
+<p align="center">
+  <img src="https://i.imgur.com/NZbjZVU.jpeg" width="500"/>
+</p>
+
+<p align="center">
+  <i>“In the silence of the terminal, I find my rhythm.”</i>
+</p>
