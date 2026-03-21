@@ -1,13 +1,10 @@
 <!-- 🌌 HACKER-STYLE README for xuanduong -->
 
-<p align="center">
-  <img src="https://github.com/XuanDuong1905/XuanDuong1905/blob/main/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif?raw=true" width="120" />
-</p>
 
 <h1 align="center">🌌 Welcome to my Space 💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=25&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Xuan+Duong;Coding+in+the+Dark;Exploring+the+Universe+of+Code;Welcome+to+My+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=25&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Xuan+Duong;Coding+in+the+Dark;Welcome+to+My+GitHub!">
 </p>
 
 ---
