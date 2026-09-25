@@ -1,6 +1,8 @@
 # Hi 👋, I'm XuanDuong
 
 ### I am currently 3rd-year student at [FIT-HCMUS](https://www.fit.hcmus.edu.vn/)
+### Visit my [Personal Portfolio](https://xuanduong1905.github.io/) to explore my projects and learn more about me!
+
 
 - 🌱 I'm currently learning **HTML, CSS and JavaScript**
 
